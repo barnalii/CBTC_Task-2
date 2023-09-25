@@ -1,3 +1,3 @@
-# calculate-me
+# simple calculator
 This project is a simple web-based calculator named "Calculate me!" built using HTML, CSS, and JavaScript. The calculator has a clean and user-friendly interface with a responsive design, making it accessible on various devices. Users can perform basic arithmetic operations like addition, subtraction, multiplication, and division, along with memory functions (M+ and M-). The design incorporates a distinctive button layout, clear input field, and a modern font selection. The color scheme adds a touch of sophistication while maintaining readability. Overall, "Calculate me!" offers a convenient and visually appealing tool for performing everyday calculations on the web.
 ![image](https://github.com/barnalii/calculate-me/assets/130478611/c15cbb72-f602-44c5-8e09-f63645bb4b2b)
