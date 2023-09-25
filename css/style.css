@@ -65,6 +65,10 @@ html, body {
   width: 52px;
   padding: 15px;
 }
+.btn{
+    width: 52px;
+    padding: 15px;
+}
 .row input{
   width: 242px;
 }
@@ -76,6 +80,10 @@ html, body {
 .button{
   width: 40px;
   padding: 10px;
+}
+.btn{
+    width: 40px;
+    padding: 10px;
 }
 .row input{
   width: 200px;
